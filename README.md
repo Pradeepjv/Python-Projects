@@ -1,1 +1,1 @@
-# Python-Projects
+# Student Management System
